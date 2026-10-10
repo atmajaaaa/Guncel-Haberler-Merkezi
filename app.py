@@ -1,4 +1,6 @@
 import streamlit as st
+st.markdown('<meta name="google-site-verification" content="BlGcjiTJXeG-AtnkqqMBVQ4J3KdhpZmJSc7QqtJPQlo" />', unsafe_allow_html=True)
+import streamlit as st
 import feedparser
 import time
 import re
