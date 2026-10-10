@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="BlGcjiTJXeG-AtnkqqMBVQ4J3KdhpZmJSc7QqtJPQlo" />
 import streamlit as st
 import streamlit.components.v1 as components
 
